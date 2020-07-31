@@ -163,9 +163,8 @@ public class BrowserUtils {
     public static void waitForPageTitle(String pageTitle) {
         WebDriverWait wait = new WebDriverWait(Driver.get(), 10);
         wait.until(ExpectedConditions.titleIs(pageTitle));
-        
 
-// I am in TestNGSelenium Project now!
         //I wanna go to GitHub now come on!
+
     }
 }
