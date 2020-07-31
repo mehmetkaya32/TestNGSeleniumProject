@@ -165,9 +165,6 @@ public class BrowserUtils {
         wait.until(ExpectedConditions.titleIs(pageTitle));
         
 
-
+// I am in TestNGSelenium Project now!
     }
-
-    //from project burada Kal!
-
 }
