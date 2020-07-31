@@ -164,8 +164,7 @@ public class BrowserUtils {
         WebDriverWait wait = new WebDriverWait(Driver.get(), 10);
         wait.until(ExpectedConditions.titleIs(pageTitle));
 
-        //I wanna go to GitHub now come on!
-        //Everybody go home!
+        //I am waiting Repository!
 
     }
 }
