@@ -165,7 +165,7 @@ public class BrowserUtils {
         wait.until(ExpectedConditions.titleIs(pageTitle));
 
         //I wanna go to GitHub now come on!
-        //Welcome to Project
+        //Everybody go home!
 
     }
 }
