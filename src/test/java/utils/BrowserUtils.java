@@ -164,7 +164,9 @@ public class BrowserUtils {
         WebDriverWait wait = new WebDriverWait(Driver.get(), 10);
         wait.until(ExpectedConditions.titleIs(pageTitle));
 
+
         //Kapimiz herkese acik hos geldin gardas
+
 
     }
 }
